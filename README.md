@@ -1,3 +1,3 @@
 # Web Visualizations
 
-* [Ohio Maps](zsiegel92.github.io/web_visualizations/ohio_maps.md)
+* [Ohio Maps](ohio_maps.md)
