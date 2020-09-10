@@ -48,7 +48,7 @@
 <br>
 <br>
 
-### Columbus Metropolitan Area (<a href="map_metro_county_city_columbus.html">open in full page...</a>)
+<h3> Columbus Metropolitan Area (<a href="map_metro_county_city_columbus.html">open in full page...</a>) </h3>
 
 Hover over the "layers" button in the top-right corner to see the county outlines.
 <iframe src="map_metro_county_city_columbus.html" title="columbus Metropolitan Area Map" width="100%" height="400"> </iframe>
