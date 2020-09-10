@@ -5,12 +5,75 @@
 
 ## Ohio Metropolitan Statistical Areas (MSAs)
 
-Counties in Ohio: ![Ohio Counties](https://geology.com/county-map/ohio-county-map.gif)
 
-### Columbus Metropolitan Area
 
+<div class="row">
+	<div class="column">
+		The Columbus Metropolitan Region is made up of the following counties:
+		<ls>
+			<li>Franklin</li>
+			<li>Delaware</li>
+			<li>Morrow</li>
+			<li>Union</li>
+			<li>Madison</li>
+			<li>Pickaway</li>
+			<li>Fairfield</li>
+			<li>Licking</li>
+			<li>Hocking</li>
+			<li>Perry</li>
+		</ls>
+	</div>
+	<div class="column">
+		The Cleveland-Elyria Metropolitan Region is made up of the following counties:
+		<ls>
+			<li>Cuyahoga</li>
+			<li>Lorain</li>
+			<li>Geauga</li>
+			<li>Lake</li>
+			<li>Medina</li>
+		</ls>
+	</div>
+	<div class="column">
+	Counties in Ohio (<a href="https://geology.com/county-map/ohio-county-map.gif">open in new tab</a>):
+	<img src="https://geology.com/county-map/ohio-county-map.gif"
+	     alt="Ohio Counties"
+	     style="height: 250px;" />
+	</div>
+</div>
+
+<br>
+<br>
+
+### Columbus Metropolitan Area (<a href="map_metro_county_city_columbus.html">open in full page...</a>)
+
+Hover over the "layers" button in the top-right corner to see the county outlines.
 <iframe src="map_metro_county_city_columbus.html" title="columbus Metropolitan Area Map" width="100%" height="400"> </iframe>
 
-### Cleveland-Elyria Metropolitan Area
 
+
+### Cleveland-Elyria Metropolitan Area (<a href="map_metro_county_city_cleveland.html">open in full page...</a>)
+
+Hover over the "layers" button in the top-right corner to see the county outlines.
 <iframe src="map_metro_county_city_cleveland.html" title="Cleveland-Elyria Metropolitan Area Map" width="100%" height="400"> </iframe>
+
+
+<style>
+* {
+  box-sizing: border-box;
+}
+
+/* Create two equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 33%;
+  padding: 10px;
+  height: 300px; /* Should be removed. Only for demonstration */
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+</style>
